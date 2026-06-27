@@ -26,6 +26,18 @@ Build a scalable Sovereign AI ecosystem where specialized agents collaborate aut
 
 ---
 
+## Why This Project Exists
+
+Most AI agent demonstrations focus on deploying a single autonomous agent.
+
+Godfather Sovereign Intelligence takes a different approach.
+
+This project explores how multiple specialized Sovereign AI Agents can operate together as a modular intelligence network. Each agent is designed with a focused responsibility while contributing to a broader ecosystem of autonomous collaboration.
+
+Beyond demonstrating deployment on Ritual Chain, this repository serves as a public engineering portfolio documenting the evolution of a scalable Sovereign AI architecture.
+
+---
+
 ## Active Sovereign Agents
 
 | Agent             | Specialization       | Status   |
@@ -36,6 +48,16 @@ Build a scalable Sovereign AI ecosystem where specialized agents collaborate aut
 
 ---
 
+## Current Network
+
+| Agent             | Harness                                      | Status    |
+| ----------------- | -------------------------------------------- | --------- |
+| Godfather DeFi    | `0x1880B3E05B552Fa24F7EDfa74AC5A34B9F062744` | 🟢 Active |
+| Ritual Sentinel   | `0x32596934e37c27806A72c9D8Fb34FdCFB9B554E4` | 🟢 Active |
+| Ritual Researcher | `0x3c0312c5D7232a661E7181674A07111Ab3463577` | 🟢 Active |
+
+---
+
 ## Deployment Status
 
 * ✅ 3 Sovereign Agents successfully deployed
@@ -43,6 +65,19 @@ Build a scalable Sovereign AI ecosystem where specialized agents collaborate aut
 * ✅ Agents funded
 * ✅ Scheduled execution enabled
 * ✅ Running on Ritual Testnet
+
+---
+
+## Technical Stack
+
+| Category        | Technology                       |
+| --------------- | -------------------------------- |
+| Language        | Python                           |
+| AI Framework    | Ritual Sovereign Agent Framework |
+| Network         | Ritual Testnet                   |
+| Wallet          | EVM Compatible Wallet            |
+| Version Control | Git & GitHub                     |
+| Documentation   | Markdown                         |
 
 ---
 
