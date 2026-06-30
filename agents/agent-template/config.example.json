@@ -1,0 +1,13 @@
+{
+  "name": "Agent Name",
+  "description": "Agent Description",
+  "version": "1.0.0",
+  "specialization": "",
+  "network": "Ritual Testnet",
+  "status": "Active",
+  "owner": "Godfather Sovereign Intelligence",
+  "harness": "",
+  "capabilities": [
+    ""
+  ]
+}

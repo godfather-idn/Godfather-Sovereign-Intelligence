@@ -1,0 +1,49 @@
+{
+  "version": "1.0.0",
+  "network": "Ritual Testnet",
+  "agents": [
+    {
+      "id": "godfather-defi",
+      "name": "Godfather DeFi",
+      "status": "active",
+      "specialization": [
+        "defi",
+        "dex",
+        "yield",
+        "liquidity",
+        "staking"
+      ],
+      "harness": "0x1880B3E05B552Fa24F7EDfa74AC5A34B9F062744"
+    },
+    {
+      "id": "ritual-sentinel",
+      "name": "Ritual Sentinel",
+      "status": "active",
+      "specialization": [
+        "security",
+        "risk",
+        "monitoring",
+        "wallet",
+        "smart contract"
+      ],
+      "harness": "0x32596934e37c27806A72c9D8Fb34FdCFB9B554E4"
+    },
+    {
+      "id": "ritual-researcher",
+      "name": "Ritual Researcher",
+      "status": "active",
+      "specialization": [
+            "research",
+            "analysis",
+            "knowledge",
+            "documentation",
+            "ritual",
+            "ecosystem",
+            "protocol",
+            "whitepaper",
+            "developer"
+        ],
+      "harness": "0x3c0312c5D7232a661E7181674A07111Ab3463577"
+    }
+  ]
+}

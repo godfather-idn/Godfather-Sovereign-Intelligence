@@ -1,0 +1,12 @@
+{
+    "name": "Godfather DeFi",
+    "version": "1.0.0",
+    "status": "active",
+    "description": "Specialized Sovereign AI Agent for DeFi analysis on Ritual Chain.",
+    "capabilities": [
+        "staking",
+        "yield farming",
+        "liquidity analysis",
+        "token research"
+    ]
+}
